@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-# RECUPERATORIO 1erPARCIAL - MARTES - 02/12/25 - Comisión 1 -
+# 1erPARCIAL - MARTES - 29/09/26 - Comisión 1 -
 
 
 
@@ -8,9 +8,9 @@
 
 ### 📌 **Modalidad**
 
-* 🗓️ **Fecha:** Martes **02/11**
-* 🕖 **Disponibilidad:** desde las **19:00 h** hasta las **01:45 h**.
-* ⏱️ **Duración máxima:** **3 horas y 30 minutos (3:30 h)** desde el momento en que aceptan la actividad en **GitHub ClassRoom**.
+* 🗓️ **Fecha:** Martes **29/09**
+* 🕖 **Disponibilidad:** desde las **08:30 hs** hasta las **14:15 h**.
+* ⏱️ **Duración máxima:** **3 horas y 30 minutos (3:30 h)** desde el momento en que bifurcan el repositorio.
 * 🧪 **Intentos:** Solo **1 (uno)**. 
 * 📢 **Publicación de notas:** a más tardar el **Jueves posterior, después de las hs**.
 
